@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Real Madrid Kit",
+        "price": 20.99,
+        "image": { "fields": { "file": { "url": "./images/prod-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Manshester United Kit",
+        "price": 21.99,
+        "image": { "fields": { "file": { "url": "./images/prod-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Paris Saint Germain Kit",
+        "price": 15.99,
+        "image": { "fields": { "file": { "url": "./images/prod-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Tottenham hotspurs Kit",
+        "price": 13.99,
+        "image": { "fields": { "file": { "url": "./images/prod-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Liverpool Kit",
+        "price": 29.99,
+        "image": { "fields": { "file": { "url": "./images/prod-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Brussia Dortumnd Kit",
+        "price": 17.99,
+        "image": { "fields": { "file": { "url": "./images/prod-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Bayren Munich Kit",
+        "price": 23.99,
+        "image": { "fields": { "file": { "url": "./images/prod-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Arsenal Kit",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/prod-8.jpg" } } }
+      }
+    }
+  ]
+}
